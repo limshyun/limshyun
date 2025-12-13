@@ -1,5 +1,6 @@
 ## 🔭 Work
-- 뱅크셀러드 인턴(PFM PA_Tech Frontend) (2025.07.28 ~ 2025.10.27)
+- Lablup Frontend Developer Intern (2025.12 ~ current)
+- 뱅크셀러드 PFM PA_Tech Frontend Developer Intern (2025.07 ~ 2025.10)
 
 ## 🌱 Activities
 - 코드스쿼드 FE-masters (2024.01 ~ 2024.08)
