@@ -1,5 +1,5 @@
 ## 🔭 Work
-- Lablup Frontend Developer Intern (2025.12 ~ current)
+- Lablup Frontend Developer Intern (2025.12 ~ 2026.02)
 - 뱅크샐러드 PFM PA_Tech Frontend Developer Intern (2025.07 ~ 2025.10)
 
 ## 🌱 Activities
